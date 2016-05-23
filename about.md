@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "AllAboutThisPlace "
 header-img: "img/green.jpg"
 ---
 
@@ -10,66 +10,47 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-测试
+###我以前的博客
 
-现在研习 **认知写作学** 。
-
-###坚信
+- http://blog.163.com/hcxtxwd_ok@126/
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+欢迎来到我的博客。
+Tinyboxxx at your service.
 
+###我是谁
+
+- 车辆工程
+- GTA忠实玩家
+- 知乎用户
+- GTA:SA GTA:IV 的MOD作者
+- MacOSX & Windows10 insider 用户
+- iPhone 5s & Mi4 @ AOSP 6.0.1
 
 ###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
 
 
 
 
 ###代表作：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
 
 
-###我的朋友们
+###小伙伴们：
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客@tinyboxxx.info](tinyboxxx.info)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [微博@Tinyboxxx](http://weibo.com/1773272124)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [知乎@何晨曦](https://www.zhihu.com/people/he-chen-xi-97)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
 
-- 公众号：cnfeat
 
 
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
 </center>
-
-
-
-
-
-
