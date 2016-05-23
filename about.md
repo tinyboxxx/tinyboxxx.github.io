@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "All About Me& This place"
-header-img: "img/aboutme.png"
+header-img: "/img/aboutme.png"
 ---
 
 
