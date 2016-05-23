@@ -7,11 +7,16 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="" align="center"></p>
+    <p><img src="/img/logo.png" align="center"></p>
 </center>
+
+
 
 欢迎来到我的博客。
 Tinyboxxx at your service.
+
+
+
 ###我以前的博客
 
 - http://blog.163.com/hcxtxwd_ok@126/
