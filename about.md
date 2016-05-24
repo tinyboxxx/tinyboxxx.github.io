@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "All About Me & This Place"
-header-img: "img/aboutme.png"
+header-img: "img/aboutme.ipg"
 ---
 
 
@@ -29,7 +29,7 @@ Tinyboxxx at your service.
 
 - 魔都某校车辆工程专业学生
 
-- GTA忠实玩家 及 GTA:SA GTA:IV 的MOD作者
+- GTA忠实玩家 及 GTA:SA GTA:IV 的MOD作者 及 GOC Modding Team 资深成员
 
 - MacOSX & Windows10 insider 用户
 
@@ -67,6 +67,6 @@ Tinyboxxx at your service.
   ​
 
 
-<center>
+<right>
     <p><img src="http://tinyboxxx.info/img/sign.png" align="right"></p>
-</center>
+</right>
