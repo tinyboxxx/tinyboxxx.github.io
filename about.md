@@ -68,5 +68,5 @@ Tinyboxxx at your service.
 
 
 <center>
-    <p><img src="img/sign.png" align="right"></p>
+    <p><img src="http://tinyboxxx.info/img/sign.png" align="right"></p>
 </center>
