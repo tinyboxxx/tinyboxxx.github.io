@@ -13,15 +13,15 @@ owner:
   bio: "盒子里的大世界"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: img/logo_withoutcircle.png
 favicon: img/logo.png
 
 douban_username:  
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+twitter_username: tinyboxxx
+github_username: tinyboxxx
+facebook_username: tinybox.plus
+weibo_username: tinyboxxx
+zhihu_username: he-chen-xi-97
 
 # Build settings  
 # use Github Flavored Markdown !important  
