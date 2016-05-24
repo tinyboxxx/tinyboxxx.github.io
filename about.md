@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "All About Me& This place"
-header-img: "/img/aboutme.png"
+description: "All About Me & This Place"
+header-img: "img/aboutme.png"
 ---
 
 
