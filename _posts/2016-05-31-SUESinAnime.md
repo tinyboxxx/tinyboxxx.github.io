@@ -1,0 +1,24 @@
+---
+layout: post
+title: SUESinAnime
+date: 2016-05-31
+categories: blog
+tags: [work][sues]
+description: 日漫风格的SUES
+---
+
+博客似乎已经架好没什么问题了，但是一只没什么po的。
+
+最近几天也一直在瞎忙，终于有时间折腾社团的事情了。
+
+这周是要做一张动漫风格的校园的图片，我照着[知乎一篇专栏](http://zhuanlan.zhihu.com/p/20026525?f3fb8ead20=57cd1e442fba3324e0d3daf644800c84)简单做了一下，因为图是5s随手拍的，没有RAW文件，颜色调的不是很到位。
+
+背景图来自google [云之彼端 约定的地方](http://bz1080p.com/archives/9975)
+
+![](http://7xrn7f.com1.z0.glb.clouddn.com/16-5-31/81269091.jpg)
+
+（压缩过）
+
+今天遇到了mac下PS的滤镜库闪退的问题，[百度](http://jingyan.baidu.com/article/5d6edee2f769fd99eadeece9.html)解决，感谢[星星湘西](http://jingyan.baidu.com/user/npublic?un=星星湘西)，是中文版的锅。
+
+图床由[yotuku.cn](http://yotuku.cn)提供，感谢。
