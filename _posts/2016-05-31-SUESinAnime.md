@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 日漫的SUES
 date: 2016-05-31
+title: SUES in Anime
 categories: blog
 tags: [work][sues]
 description: 日漫风格的SUES
@@ -16,7 +16,7 @@ header-img: http://7xuw78.com1.z0.glb.clouddn.com/16-5-31/58437197.jpg-normal
 
 背景图来自google [云之彼端 约定的地方](http://bz1080p.com/archives/9975)
 
-![](http://7xuw78.com1.z0.glb.clouddn.com/16-5-31/58437197.jpg-normal)
+![](http://7xuw78.com1.z0.glb.clouddn.com/16-5-31/32308357.jpg-normal)
 
 （压缩过）
 
