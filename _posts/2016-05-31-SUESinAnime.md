@@ -5,6 +5,7 @@ date: 2016-05-31
 categories: blog
 tags: [work][sues]
 description: 日漫风格的SUES
+header-img: http://7xrn7f.com1.z0.glb.clouddn.com/16-5-31/44896025.jpg
 ---
 
 博客似乎已经架好没什么问题了，但是一只没什么po的。
@@ -15,9 +16,15 @@ description: 日漫风格的SUES
 
 背景图来自google [云之彼端 约定的地方](http://bz1080p.com/archives/9975)
 
-![](http://7xrn7f.com1.z0.glb.clouddn.com/16-5-31/81269091.jpg)
+![](http://7xrn7f.com1.z0.glb.clouddn.com/16-5-31/44896025.jpg)
 
 （压缩过）
+
+算是对SUES的第二次改次元了，上次是另一个次元的SUESin星夜
+
+![](http://7xrn7f.com1.z0.glb.clouddn.com/16-5-31/82344265.jpg)
+
+
 
 今天遇到了mac下PS的滤镜库闪退的问题，[百度](http://jingyan.baidu.com/article/5d6edee2f769fd99eadeece9.html)解决，感谢[星星湘西](http://jingyan.baidu.com/user/npublic?un=星星湘西)，是中文版的锅。
 
