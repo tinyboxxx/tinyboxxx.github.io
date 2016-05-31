@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-05-31
-title: SUES in Anime
+title: SUESinAnime
 categories: blog
 tags: [work][sues]
 description: 日漫风格的SUES
