@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2016-05-31
-title: SUESinAnime
+date: 2016-05-30
+title: SUES in Anime
 categories: blog
-tags: [work][sues]
-description: 日漫风格的SUES
+tags: [mywork]
+description: SUES in Anime
 header-img: http://7xuw78.com1.z0.glb.clouddn.com/16-5-31/58437197.jpg-normal
 ---
 
